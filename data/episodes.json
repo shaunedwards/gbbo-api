@@ -1,0 +1,2600 @@
+[
+  {
+    "series": 1,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "For the first challenge, the bakers were instructed to bake any cake they want using their creativity within three hours. It had to be evenly baked, evenly risen, and moist. For the technical challenge, the bakers were to make a Victorian Sandwich using Mary Berry's recipe. For the final challenge, the showstopper challenge, the bakers were required to make a Chocolate Celebration Cake, with perfect execution, original ideas and their own flair.",
+    "eliminated": [
+      "Lea",
+      "Mark"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Edd"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Annetha",
+      "David",
+      "Edd",
+      "Jasminder",
+      "Jonathan",
+      "Lea",
+      "Louise",
+      "Mark",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 1,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the signature bake, the bakers were asked to bake their Personality Biscuits within two hours. For the technical challenge, the bakers were asked to bake scones using Paul Hollywood's recipe within an hour. For the showstopper, the bakers were asked to bake Petit Fours; Meringues, Choux Pastry, and Macarons, within four hours.",
+    "eliminated": [
+      "Annetha",
+      "Louise"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Jonathan"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Annetha",
+      "David",
+      "Edd",
+      "Jasminder",
+      "Jonathan",
+      "Louise",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 1,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For their signature bake, the bakers were asked to bake their signature bread within 3 1/2 hours. For the technical challenge, the bakers were asked to bake a cob using Paul's recipe within 2 1/2 hours. For the showstopper, the bakers were asked to bake 12 sweet rolls and 12 savoury rolls. They can have at least 3 flavours and 6 hours.",
+    "eliminated": [
+      "Jonathan"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Edd"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "David",
+      "Edd",
+      "Jasminder",
+      "Jonathan",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 1,
+    "episode": 4,
+    "theme": "Puddings",
+    "synopsis": "For the first challenge, the bakers were asked to bake their own classic pudding, steamed or baked. They had 2 1/2 hours. For the technical challenge, the bakers were asked to bake a lemon souffle using Mary's recipe within 40 minutes. The bakers started to bake at different time intervals. For the showstopper, the bakers were asked to bake 3 puddings: crumble, bread, and suet, in 5 hours.",
+    "eliminated": [
+      "David"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Miranda"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "David",
+      "Edd",
+      "Jasminder",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 1,
+    "episode": 5,
+    "theme": "Pastry",
+    "synopsis": "For the signature challenge, the bakers were asked to bake a savoury pie in 2 1/2 hours. For the technical challenge, the bakers were asked to bake 4 Cornish pasties in 1 1/2 hours. For the showstopper, the bakers were asked to bake 2 pastry platters; savory and sweet tartlets, in 5 hours.",
+    "eliminated": [
+      "Jasminder"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Miranda"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Edd",
+      "Jasminder",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 1,
+    "episode": 6,
+    "theme": "Tea Party (Final)",
+    "synopsis": "In the final, a baker was eliminated after the first bake, and only two bakers competed in the final day. For the first challenge, the 3 finalists were asked to bake 24 miniature cake in 2 1/2 hours. For the final challenge, the 2 finalists were asked to bake 24 miniature tarts, 24 scones, 24 choux buns, and 24 finger sandwiches in 5 hours.",
+    "eliminated": [
+      "Miranda"
+    ],
+    "starBaker": [],
+    "technicalWinner": [],
+    "bakersRemaining": 2,
+    "participants": [
+      "Edd",
+      "Miranda",
+      "Ruth"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "For their first challenge, the bakers were asked to bake 24 cupcakes in two hours. They were allowed to make two different types of cupcakes. For the technical challenge, the bakers were asked to bake a Coffee and Walnut Battenburg cake using Mary Berry's recipe in two hours. The cake needed to have the perfect sponge which held its form (perfect symmetry), distinguish flavours, and a smooth exterior. For the showstopper, the bakers were asked to bake a chocolate tiered celebration cake with elaborate, multi-layer design in five hours.",
+    "eliminated": [
+      "Keith"
+    ],
+    "starBaker": [
+      "Holly"
+    ],
+    "technicalWinner": [
+      "Holly"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Ben",
+      "Holly",
+      "Ian",
+      "Janet",
+      "Jason",
+      "Jo",
+      "Keith",
+      "Mary-Anne",
+      "Robert",
+      "Simon",
+      "Urvashi",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 2,
+    "theme": "Tarts",
+    "synopsis": "For the signature bake, the bakers were asked to bake a savory Quiche in 2 hours. For the technical challenge, the bakers were asked to bake a Tarte au Citron using Mary's recipe in 1 1/2 hours. For the showstopper, the bakers were asked to bake 24 miniature sweet tarts.",
+    "eliminated": [
+      "Simon"
+    ],
+    "starBaker": [
+      "Jason"
+    ],
+    "technicalWinner": [
+      "Ben"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Ben",
+      "Holly",
+      "Ian",
+      "Janet",
+      "Jason",
+      "Jo",
+      "Mary-Anne",
+      "Robert",
+      "Simon",
+      "Urvashi",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For their signature bake, the bakers were asked to bake a free formed flavored loaf (not using a tin) in 3 ¼ hours. For the technical challenge, the bakers were given 3 1/2 hours to bake a Focaccia, using Paul's recipe. For the showstopper, the bakers were asked to bake 2 displays. One display is to make a basket out of bread. The second display is to make 12 sweet and 12 savory rolls. They had 5 hours.",
+    "eliminated": [
+      "Ian",
+      "Urvashi"
+    ],
+    "starBaker": [
+      "Yasmin"
+    ],
+    "technicalWinner": [
+      "Jo"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Ben",
+      "Holly",
+      "Ian",
+      "Janet",
+      "Jason",
+      "Jo",
+      "Mary-Anne",
+      "Robert",
+      "Urvashi",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 4,
+    "theme": "Biscuits",
+    "synopsis": "For the signature bake, the bakers were give 1 1/2 hours to make 12 biscuits. The biscuits should not be too hard or too crumbly. For the technical challenge, the bakers were given 1 1/2 hours to bake 24 brandy snaps. For the showstopper, the bakers were asked to bake a macaron display. They need 3 different flavors, bake 120 of them, and had 5 hours to complete it.",
+    "eliminated": [
+      "Ben"
+    ],
+    "starBaker": [
+      "Holly",
+      "Jason"
+    ],
+    "technicalWinner": [
+      "Jason"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Ben",
+      "Holly",
+      "Janet",
+      "Jason",
+      "Jo",
+      "Mary-Anne",
+      "Robert",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 5,
+    "theme": "Pies",
+    "synopsis": "For the signature, the bakers were asked to bake a family pie with either a ruff puff pastry or flaky pastry in 2 1/2 hours. For the technical challenge, the bakers were asked to bake a batch of 6 miniature pork pies in 2 1/2 hours using Paul's recipe. The technical was a 2 day bake challenge, so the bakers were judged the next day. For the showstopper, the bakers were asked to bake a meringue pie—a fruit and/or custard pie topped with meringue, in 3 ½ hours.",
+    "eliminated": [
+      "Jason",
+      "Robert"
+    ],
+    "starBaker": [
+      "Janet"
+    ],
+    "technicalWinner": [
+      "Janet"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Holly",
+      "Janet",
+      "Jason",
+      "Jo",
+      "Mary-Anne",
+      "Robert",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 6,
+    "theme": "Desserts",
+    "synopsis": "For the signature bake, the bakers were asked to bake a cheesecake in 2 1/2 hours. For the technical challenge, the bakers were asked to bake a chocolate roulade in 1 3/4 hours using Mary's recipe. For the showstopper, the bakers were asked to create a Croquembouche-inspired bake in 5 hours.",
+    "eliminated": [
+      "Yasmin"
+    ],
+    "starBaker": [
+      "Jo"
+    ],
+    "technicalWinner": [
+      "Jo"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Holly",
+      "Janet",
+      "Jo",
+      "Mary-Anne",
+      "Yasmin"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 7,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the signature bake, the semi finalists were asked to bake a layered mousse cake in 2 hours, with the judges seeking a light sponge and a rich mousse. For the technical challenge, the bakers were asked to bake 12 identical Iced Fingers. Using Paul's recipe, they were to be filled with cream and jam. For the showstopper, the bakers were asked to bake 3 types of pastries. The bakers had to use the same dough — which must be crisp on the outside and soft on the inside — for all three.",
+    "eliminated": [
+      "Janet"
+    ],
+    "starBaker": [],
+    "technicalWinner": [
+      "Holly"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Holly",
+      "Janet",
+      "Jo",
+      "Mary-Anne"
+    ]
+  },
+  {
+    "series": 2,
+    "episode": 8,
+    "theme": "Final",
+    "synopsis": "For their final signature bake, the finalists were asked to bake 12 mille-feuille in 2 1/2 hours. For the technical challenge, the bakers were asked to bake a sachertorte in 2 hours and 40 minutes. For their final showstopper, the bakers were asked to bake 3 different types of petits fours: Meringue, Sweet Pastry, and Sponge Based, within 4 hours.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Jo"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Holly",
+      "Jo",
+      "Mary-Anne"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "The contestants were required to make an upside-down cake for their signature bake. The bakers were given two hours to make a sponge topped with fruits of their choice. For the technical bake, Paul set the bakers the challenge of making four rum babas with cream in the middle and sliced fruits on top, to be completed in three hours. For the showstopper, the bakers were given the task of making a cake in five hours, and the cake baked should reveal a hidden design when cut.",
+    "eliminated": [
+      "Natasha"
+    ],
+    "starBaker": [
+      "Victoria"
+    ],
+    "technicalWinner": [
+      "Sarah-Jane"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Manisha",
+      "Natasha",
+      "Peter",
+      "Ryan",
+      "Sarah-Jane",
+      "Stuart",
+      "Victoria"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 2,
+    "theme": "Bread",
+    "synopsis": "For the signature bake, the bakers were required to make twelve flatbreads; six with yeast, six without. They were given two and a half hours to complete the task. For the technical challenge, they had to make an eight-strand plaited loaf in two hours using a recipe from Paul. For the showstopper bake, the bakers were given four hours to make twenty-four bagels: twelve sweet, and twelve savoury.",
+    "eliminated": [
+      "Peter"
+    ],
+    "starBaker": [
+      "John"
+    ],
+    "technicalWinner": [
+      "John"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Manisha",
+      "Peter",
+      "Ryan",
+      "Sarah-Jane",
+      "Stuart",
+      "Victoria"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 3,
+    "theme": "Tarts",
+    "synopsis": "The classic tarte tatin was set as the signature challenge. The tarte tatin could be sweet or savoury, and had to be finished in two and half hours. Baking a treacle tart was set as the technical challenge by Mary, with the requirement that the pastry lattice on top be woven. The bakers were given two hours for the challenge. For the showstopper, the bakers were required to make a large designer fruit tart, fit for a window display, in less than three hours.",
+    "eliminated": [
+      "Victoria"
+    ],
+    "starBaker": [
+      "James"
+    ],
+    "technicalWinner": [
+      "James"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Manisha",
+      "Ryan",
+      "Sarah-Jane",
+      "Stuart",
+      "Victoria"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 4,
+    "theme": "Desserts",
+    "synopsis": "The bakers were given three hours to make a torte without conventional wheat flour as the signature bake. The torte had to be more than 20 cm in diameter. Mary set crème caramel as the technical challenge, to be finished in two and three-quarter hours. A four-layered meringue dessert was the showstopper challenge.",
+    "eliminated": [
+      "Stuart"
+    ],
+    "starBaker": [
+      "Brendan"
+    ],
+    "technicalWinner": [
+      "Brendan"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Manisha",
+      "Ryan",
+      "Sarah-Jane",
+      "Stuart"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 5,
+    "theme": "Pies",
+    "synopsis": "The signature bake was Wellington, which Paul specified should be at least eight inches long and completely covered with pastry. The bakers were given three hours for the challenge. The technical challenge was to make a hand-raised pie in two and a quarter hours. This was to be made with a hot water crust and moulded using a dolly. The pie was left to set overnight and judged the next day. For the showstopper challenge, the bakers were required to bake a family-sized sweet American-style pie in three and a half hours.",
+    "eliminated": [
+      "Manisha"
+    ],
+    "starBaker": [
+      "Ryan"
+    ],
+    "technicalWinner": [
+      "Cathryn"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Manisha",
+      "Ryan",
+      "Sarah-Jane"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 6,
+    "theme": "Puddings",
+    "synopsis": "The bakers were challenged to make, in two hours, two different flavoured sponge puddings with different accompaniments, six of each. Mary set the Queen of Puddings as the technical challenge. For the showstopper, the bakers were required to make in three and a half hours one large strudel, either with sweet or savoury fillings.",
+    "eliminated": [],
+    "starBaker": [
+      "Brendan"
+    ],
+    "technicalWinner": [
+      "Brendan"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Ryan",
+      "Sarah-Jane"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 7,
+    "theme": "Sweet Dough",
+    "synopsis": "For the signature bake, the bakers were set to bake 24 buns made from an enriched dough with yeast in three hours. The buns should be all of the same size and evenly baked. For the technical bake, the bakers were challenged to make ten jam doughnuts, using Paul's recipe, in two and a half hours. They should be consistent in size, shape, jam distribution, and colour. For the showstopper, the bakers each made a celebratory enriched-dough loaf. This challenge started straight after the technical bake, so that the dough could be proofed overnight if necessary.",
+    "eliminated": [
+      "Ryan",
+      "Sarah-Jane"
+    ],
+    "starBaker": [
+      "Danny"
+    ],
+    "technicalWinner": [
+      "James"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John",
+      "Ryan",
+      "Sarah-Jane"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 8,
+    "theme": "Biscuits",
+    "synopsis": "The bakers were given two hours to make 48 crackers or crisp breads for their signature bake. They should be thin, evenly baked and crack when snapped in two. For the technical challenge, the bakers were asked to make six chocolate teacakes in two hours using Paul's recipe, a task made more difficult because the high temperature that day would not allow the chocolate to cool. For the showstopper bake, the bakers were challenged to make a gingerbread structure, which should not be a gingerbread house, in four hours.",
+    "eliminated": [
+      "Cathryn"
+    ],
+    "starBaker": [
+      "James"
+    ],
+    "technicalWinner": [
+      "James"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Brendan",
+      "Cathryn",
+      "Danny",
+      "James",
+      "John"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the first pâtisserie test, the bakers were required to make three types of petits fours, 12 of each. These should be small (each a single mouthful), exquisite and perfect. Mary set the bakers to make a Fraisier cake for the technical challenge. choux pastry gateau was set as the showstopper.",
+    "eliminated": [
+      "Danny"
+    ],
+    "starBaker": [
+      "James"
+    ],
+    "technicalWinner": [
+      "James"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Brendan",
+      "Danny",
+      "James",
+      "John"
+    ]
+  },
+  {
+    "series": 3,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "The finalists were set the task of making a savoury pithivier in two and a half hours. Paul and Mary's technical challenge required 25 fondant fancies. For the final showstopper, the finalists were required to make in four hours a chiffon cake based on the theme of their personal highlights of 2012. All the bakes were served at a special summer fête held on the ground of Harptree Court.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "James"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Brendan",
+      "James",
+      "John"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "The bakers were given two hours to make a sandwich cake with filling of their choice for the signature challenge. For their first technical challenge, the bakers were required to bake an angel food cake using Mary Berry's recipe in two and half hours. For the showstopper, the challenge was to make a chocolate cake using at least two types of chocolate to decorate the cake. They were given four hours for this bake.",
+    "eliminated": [
+      "Toby"
+    ],
+    "starBaker": [
+      "Robert"
+    ],
+    "technicalWinner": [
+      "Robert"
+    ],
+    "bakersRemaining": 12,
+    "participants": [
+      "Ali",
+      "Beca",
+      "Christine",
+      "Deborah",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Lucy",
+      "Mark",
+      "Robert",
+      "Ruby",
+      "Toby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 2,
+    "theme": "Bread",
+    "synopsis": "The bakers were asked to make, in two hours, 36 breadsticks, all made using yeast, of at least 25 cm (10 inches) in length, and the breadsticks should be crisp and produce a good snap. For the technical challenge, the bakers have to make eight English muffins using Paul's recipe in 2¾ hours. For the final bake, an elaborately decorated loaf was set as the showstopper challenge to be completed in four hours.",
+    "eliminated": [
+      "Lucy"
+    ],
+    "starBaker": [
+      "Ruby"
+    ],
+    "technicalWinner": [
+      "Kimberley"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Ali",
+      "Beca",
+      "Christine",
+      "Deborah",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Lucy",
+      "Mark",
+      "Robert",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 3,
+    "theme": "Desserts",
+    "synopsis": "For the first challenge of the episode the bakers were asked to make a trifle of their own choice, using ladyfingers, sponge or biscuit for the base and either jam or custard for the middle layer. For their second challenge, the bakers were required to bake, in an hour and a half, floating islands using Mary Berry's recipe. For the show-stopper, the bakers were set the task of making 24 petit fours, twelve biscuit based, twelve sponge based, to be finished in three hours.",
+    "eliminated": [
+      "Deborah",
+      "Mark"
+    ],
+    "starBaker": [
+      "Christine"
+    ],
+    "technicalWinner": [
+      "Glenn"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Ali",
+      "Beca",
+      "Christine",
+      "Deborah",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Mark",
+      "Robert",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 4,
+    "theme": "Pies and Tarts",
+    "synopsis": "For the signature challenge the bakers are asked to bake a double-crusted fruit pie with a filling of their choice. For their fourth technical challenge, the bakers were required to bake a tart that has almost a 700-year history; the egg custard tart. For the showstopper, the challenge was to make a filo pie centrepiece using the filo pastry that they had made from scratch.",
+    "eliminated": [
+      "Ali"
+    ],
+    "starBaker": [
+      "Kimberley"
+    ],
+    "technicalWinner": [
+      "Frances"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Ali",
+      "Beca",
+      "Christine",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Robert",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 5,
+    "theme": "Biscuits and Traybakes",
+    "synopsis": "For the signature challenge, the bakers were asked to make their favourite traybake in two hours and cut into identical pieces. Everything made as part of the traybake however needed to be made from scratch. In the technical challenge, the bakers needed to make 18 tuiles using Mary's recipe in one and a half hour. Half of the tuiles needed to be shaped in the traditional manner and piped in a concentric circles, and the other rolled up and dipped in chocolate. In the last challenge, the baker had to make a biscuit tower of at least 30 cm high, to be finished in four hours.",
+    "eliminated": [
+      "Robert"
+    ],
+    "starBaker": [
+      "Christine"
+    ],
+    "technicalWinner": [
+      "Christine"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Beca",
+      "Christine",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Robert",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 6,
+    "theme": "Sweet Dough",
+    "synopsis": "In the first challenge, the bakers were required to make a sweet tea loaf using yeast, either in a tin or free form. They were given 3 hours for the task. For the technical challenge, the bakers baked an Apricot Couronne using Paul's recipe in two and three-quarter hours. For the showstopper, the bakers needed to make two different varieties of European sweet buns, 12 of each. The bakers were given 30 minutes to start in the first day so that dough may be proofed overnight, to be finished the second day in four hours.",
+    "eliminated": [
+      "Howard"
+    ],
+    "starBaker": [
+      "Ruby"
+    ],
+    "technicalWinner": [
+      "Ruby"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Beca",
+      "Christine",
+      "Frances",
+      "Glenn",
+      "Howard",
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 7,
+    "theme": "Pastry",
+    "synopsis": "The bakers are challenged to bring the old fashioned suet pudding back up to date for the signature challenge. In the technical bake, the bakers are challenged to create eight perfect religieuse; these are choux buns that are topped with ganache and filled with crème patissiere then carefully balanced one on top of the other. In the showstopper challenge, the bakers have four hours to make three different types of puffed pastries: one must be filled, another has to be iced and the final one is of their choice.",
+    "eliminated": [
+      "Glenn"
+    ],
+    "starBaker": [
+      "Frances"
+    ],
+    "technicalWinner": [
+      "Beca"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Beca",
+      "Christine",
+      "Frances",
+      "Glenn",
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 8,
+    "theme": "Alternative Ingredients",
+    "synopsis": "This week, in the quarter final, the theme for this week were bakes that were free (e.g. gluten free, dairy free). In the signature challenge, the bakers are challenged to bake a loaf that does not use traditional wheat flours, instead they must use flours such as spelt, rye, potato or tapioca. The bakers are challenged in the technical bake to make a Dacquoise which consists of three layers; coiled meringue, coffee custard and a hazelnut praline top. For the showstopper, the bakers are pushed out of their comfort zones and asked to create novelty vegetable cakes which must be dairy free.",
+    "eliminated": [
+      "Christine"
+    ],
+    "starBaker": [
+      "Ruby"
+    ],
+    "technicalWinner": [
+      "Ruby"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Beca",
+      "Christine",
+      "Frances",
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 9,
+    "theme": "French week (Semi-final)",
+    "synopsis": "This week's theme was all things French. In the signature challenge, the bakers are challenged to make three different types of savoury canapé; Choux pastry, shortcrust or rough puff, and a third of their choice. For the technical bake, the bakers are challenged to make a Charlotte Royale; made of Swiss roll surrounding a bavarois. It is set with gelatin to form a firm dome when turned out. In the showstopper challenge, the bakers are challenged to bake an iconic French patisserie, the opera cake.",
+    "eliminated": [
+      "Beca"
+    ],
+    "starBaker": [
+      "Kimberley"
+    ],
+    "technicalWinner": [
+      "Kimberley"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Beca",
+      "Frances",
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 4,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "In the signature challenge, the final three are challenged to create a picnic pie. The pie must be savoury, the fillings have to create a creative design and has to be strong enough to be served out of the tin. For the technical challenge, the bakers are challenged to make 12 perfectly shaped pretzels; six savoury with rock salt and six sweet, flavoured with poppy seeds and topped with sweet orange zest and glaze. For the final showstopper challenge of the series, the bakers are asked to bake the ultimate showpiece – a three-tiered wedding cake.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Kimberley"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Frances",
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "For their first bake, the contestants were required to make a Swiss Roll as their signature challenge in two and a half hours. For the technical bake, the baker were set the challenge of baking a cherry cake in two hours using Mary Berry's recipe. In the showstopper challenge, the bakers were given three and a half hours to bake their own choice of classic British cakes in miniature. The bakers needed to make 36 cakes of identical size, shape and texture.",
+    "eliminated": [
+      "Claire"
+    ],
+    "starBaker": [
+      "Nancy"
+    ],
+    "technicalWinner": [
+      "Nancy"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Chetna",
+      "Claire",
+      "Diana",
+      "Enwezor",
+      "Iain",
+      "Jordan",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Norman",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "In this episode, the bakers were challenged with creating biscuits. Firstly, in the signature, they had two hours to bake 36 savoury biscuits. In the technical challenge, they had one and a quarter hours with Mary Berry's recipe for 18 florentines, which the bakers found difficult. In the final challenge, the bakers had four hours to make some kind of 3D biscuit scene.",
+    "eliminated": [
+      "Enwezor"
+    ],
+    "starBaker": [
+      "Richard"
+    ],
+    "technicalWinner": [
+      "Richard"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Chetna",
+      "Diana",
+      "Enwezor",
+      "Iain",
+      "Jordan",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Norman",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "In bread week, the bakers firstly had to make twelve rye bread rolls in three and a half hours. In the technical challenge, they were given three hours to make four ciabatta loaves using Paul's recipe, with the advice from Paul that they should be patient. In the showstopper, the bakers were required to make a bread centrepiece in four hours. The centrepiece should be a filled-loaf that is spectacular and tasty, and would be judged on its appearance, design and crust, and should be well-baked on the inside.",
+    "eliminated": [
+      "Jordan"
+    ],
+    "starBaker": [
+      "Luis"
+    ],
+    "technicalWinner": [
+      "Kate"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Chetna",
+      "Diana",
+      "Iain",
+      "Jordan",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Norman",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 4,
+    "theme": "Desserts",
+    "synopsis": "For the signature bake, the judges gave the bakers two hours to make eight self-saucing puddings, meaning the sauce should come from the bake itself. The bakers may choose to make either a fondant or a sponge which creates its own sauce at the bottom. In the technical, they had to bake Mary's own tiramisu cake recipe in two and a half hours. In the showstopper, they had four and a half hours to make baked Alaskas.",
+    "eliminated": [
+      "Iain"
+    ],
+    "starBaker": [
+      "Richard"
+    ],
+    "technicalWinner": [
+      "Martha"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Chetna",
+      "Diana",
+      "Iain",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Norman",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 5,
+    "theme": "Pies and Tarts",
+    "synopsis": "For signature challenge, the bakers were set the task of a family-sized custard tart in two and a half hours. The tart should have a crispy base and silky custard. The technical challenge is set using one of Paul's recipes, and the bakers were required to make six mini pear pies, which are poached pears surrounded by rough puff pastry, to be completed in two hours. In the showstopper, the bakers were tasked with making tiered pies in four and half hours. The pies needed to be able to support themselves, and should have at least three tiers and share a common theme.",
+    "eliminated": [
+      "Norman"
+    ],
+    "starBaker": [
+      "Kate"
+    ],
+    "technicalWinner": [
+      "Martha"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Chetna",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Norman",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 6,
+    "theme": "European Cakes",
+    "synopsis": "For the signature bake, the challenge was to bake a cake inspired by a European cake, but the cake must be leavened with yeast. The bakers were given three hours for the challenge. The technical challenge was set using one of Mary's recipes for a Swedish Princess cake (Prinsesstårta). The recipe is the most complicated yet, requiring 26 separate ingredients with 14 stages, and to be completed in two and a quarter hours. For the showstopper challenge, the bakers were required to make a contemporary version of the Hungarian Dobos Torte in five hours. The cake should have at least two tiers, with particular emphasis on caramel sugar work on the cake.",
+    "eliminated": [],
+    "starBaker": [
+      "Chetna"
+    ],
+    "technicalWinner": [
+      "Nancy"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Chetna",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 7,
+    "theme": "Pastry",
+    "synopsis": "In their first task, the bakers were set the challenge of making twelve savoury pastry parcels, to be completed in an hour and three quarters. The parcels can be of any type of pastries, but should be uniform in size, well-filled, perfectly cooked and well-sealed to prevent leaks. The technical bake was one that for the first time none of the bakers had heard of, the Breton pastry kouign-amann, using one of Paul's recipes. The bakers should make twelve identical kouign-amanns in three and a half hours. For the final challenge, the bakers were required to make 24 Éclairs of two different flavours (12 of each) in four hours. The éclairs should be made of choux pastry and éclair-shaped, otherwise the bakers were free to do as they wished to produce a showstopper.",
+    "eliminated": [
+      "Kate"
+    ],
+    "starBaker": [
+      "Richard"
+    ],
+    "technicalWinner": [
+      "Richard"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Chetna",
+      "Kate",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 8,
+    "theme": "Advanced Dough",
+    "synopsis": "For the signature bake, they were given the challenge of making sweet fruit loaves that must be free form. They had two and a half hours for the bake which is challenging as the bakers were required to use enriched dough which takes longer to proof. In the technical, they had two and a half hours to make a povitica, which Chetna had made for her signature loaf. This technical challenge was particularly hard for most of the bakers, many of whose loafs were raw inside and deemed unsafe to eat. Doughnuts were set as the challenge in the final task, and the bakers were required to make eighteen each of two different sorts, to be completed in four hours.",
+    "eliminated": [
+      "Martha"
+    ],
+    "starBaker": [
+      "Richard"
+    ],
+    "technicalWinner": [
+      "Chetna"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Chetna",
+      "Luis",
+      "Martha",
+      "Nancy",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the signature challenge, the bakers had to make baklava, including their own filo pastry, with a time limit of three and a half hours to complete the challenge. There had to be two different types of baklava, and twenty-four portions in total. For the technical challenge, the bakers had to make a schichttorte, and had two hours to complete it. There had to be twenty layers in their schichttorte, and was one of Paul's recipes. For the showstopper challenge, the bakers had to make entremets, very small and fine cakes put in a window of a French pâtisserie. They had to make two different types of entremets, twelve of each, and had five hours to complete the challenge.",
+    "eliminated": [
+      "Chetna"
+    ],
+    "starBaker": [
+      "Richard"
+    ],
+    "technicalWinner": [
+      "Luis"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Chetna",
+      "Luis",
+      "Nancy",
+      "Richard"
+    ]
+  },
+  {
+    "series": 5,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "In the final signature challenge, the bakers had to make Viennoiserie in three and a half hours. They had to make two different types of the pastry. In the technical, the judges decided to bring things \"back to basics\" by asking the bakers to bake 12 Victoria Sandwiches, Tartes au citron and Scones. The challenge, however, was that they had only two hours to make this and only three instructions. The final Showstopper was a Pièce Montée. The bakers were given five hours to make this, and the judges said it must be in some self-standing structure.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Nancy"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Luis",
+      "Nancy",
+      "Richard"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "For the first challenge, the bakers were given two hours to make a Madeira Cake, which was chosen as an \"easy\" challenge for the bakers. The cake should have a dome and a crack on top, though Mary stated the cake should not differ too far from the original. For the technical challenge, the bakers had one and three quarter hours to make Mary's recipe for a Frosted Walnut Cake, which should have three layers and a meringue coating, along with caramelised walnuts. A Black Forest Gâteau was set as the final challenge. In three and a half hours, the bakers were tasked with making a cake that should be extravagant, and should \"impress\" Mary and Paul.",
+    "eliminated": [
+      "Stu"
+    ],
+    "starBaker": [
+      "Marie"
+    ],
+    "technicalWinner": [
+      "Ugnė"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Alvin",
+      "Dorret",
+      "Flora",
+      "Ian",
+      "Marie",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Sandy",
+      "Stu",
+      "Tamal",
+      "Ugnė"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the signature challenge, the bakers were given two hours to bake 24 identical biscotti of any shape, flavour or size. In the technical challenge, they were required to make eight arlettes, which are high-end light delicate cinnamon-flavoured biscuits, in two and a half hours. For the show stopper, they were set the challenge of making 36 biscuits, to be presented in a biscuit box made of a different kind of biscuit mix. They were given four hours in this challenge.",
+    "eliminated": [
+      "Marie"
+    ],
+    "starBaker": [
+      "Ian"
+    ],
+    "technicalWinner": [
+      "Dorret"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Alvin",
+      "Dorret",
+      "Flora",
+      "Ian",
+      "Marie",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Sandy",
+      "Tamal",
+      "Ugnė"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "In the first task, the bakers were given one and a half hour to make two quick bread to be made free-form (i.e. not in a tin). For the second task, Paul set the bakers the challenge of baking four identical crusty baguettes in two and a half hours. For the final showstopper, the bakers needed to make a 3D bread sculpture in five hours, using three types of dough, and one of them should be filled.",
+    "eliminated": [
+      "Dorret"
+    ],
+    "starBaker": [
+      "Ian"
+    ],
+    "technicalWinner": [
+      "Ian"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Alvin",
+      "Dorret",
+      "Flora",
+      "Ian",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Sandy",
+      "Tamal",
+      "Ugnė"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 4,
+    "theme": "Desserts",
+    "synopsis": "For the signature challenge, the bakers had 2 hours to make twelve crème brûlées. The brief specified that the custard must be set and that the bakers weren't allowed to use a blowtorch to caramelize the top. For the technical challenge, the bakers had four hours to make a Spanische Windtorte. This dessert had two types of meringue, Swiss and French, designed into a circular box and filled with cream and fruit. Three tiers of sweet cheesecakes were set as the showstopper. The structure must be self-standing, have unique flavors and be completed in four and one half hours.",
+    "eliminated": [
+      "Sandy"
+    ],
+    "starBaker": [
+      "Ian"
+    ],
+    "technicalWinner": [
+      "Paul"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Alvin",
+      "Flora",
+      "Ian",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Sandy",
+      "Tamal",
+      "Ugnė"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 5,
+    "theme": "Alternative Ingredients",
+    "synopsis": "This episode has a theme of using alternatives for ingredients usually used in baking. For the signature bake, the bakers were given the challenge of baking a cake, but without using sugar. They were given two and a half hour for the bake. For the technical bake, the challenge was to make twelve identical gluten-free pita breads in two hours. In the showstopper, the bakers needed to make an ice-cream roll using dairy-free ice-cream. They were given four and a half hours for the bake.",
+    "eliminated": [
+      "Ugnė"
+    ],
+    "starBaker": [
+      "Nadiya"
+    ],
+    "technicalWinner": [
+      "Nadiya"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Alvin",
+      "Flora",
+      "Ian",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Tamal",
+      "Ugnė"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 6,
+    "theme": "Pastry",
+    "synopsis": "For this week's signature challenge, the bakers had to make a Frangipane tart in two hours, the brief being that it must be open-topped and use shortcrust pastry. In the technical, the bakers had to make 12 Flauones, a cheese filled pastry made in Cyprus. They had two hours. Vol-au-vents were set as the Showstopper – the bakers had to make two types, all using their own puff pastry – in three hours and forty five minutes.",
+    "eliminated": [
+      "Alvin"
+    ],
+    "starBaker": [
+      "Mat"
+    ],
+    "technicalWinner": [
+      "Mat"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Alvin",
+      "Flora",
+      "Ian",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 7,
+    "theme": "Victorian",
+    "synopsis": "For the first challenge, the bakers had three hours to make a Raised Game Pie. The pie must have thin Hot water crust pastry, and must be very ornate, as most game pies from the era were. For the technical challenge, a Tennis fruit Cake was set for the bakers. The bakers were given three hours to make a fruit cake, along with royal icing and sugar paste, with much gelatine being used. A Charlotte Russe was set as the Showstopper. To be done in five and a half hours, the bake usually has ladyfingers around jelly and a sponge – with flavour and decoration being key.",
+    "eliminated": [
+      "Mat"
+    ],
+    "starBaker": [
+      "Tamal"
+    ],
+    "technicalWinner": [
+      "Nadiya"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Flora",
+      "Ian",
+      "Mat",
+      "Nadiya",
+      "Paul",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 8,
+    "theme": "Pâtisserie",
+    "synopsis": "In the first quarter-final challenge, the bakers had to make twenty-four cream horns in three and a half hours. They were asked to make twenty four cream horns – twelve of each flavour, using either puff, ruff puff or flaky pastry. Mary's recipe for nine Mochatines was set as the technical challenge. These were small, delicate genoise sponges, filled with a coffee buttercream meant to be attractive, as if \"in a pâtisserie window\". They would only have two hours. Religieuse à l'ancienne were set as the Showstopper challenge. These would be large éclairs, stood upright with no dowelling, and decorated with buttercream. They were given four hours, though the towers were left to stand for two hours afterwards, as traditional religieuse would have been left for such time. As a result, some of the towers began to collapse or lean upon being presented to Mary and Paul.",
+    "eliminated": [
+      "Paul"
+    ],
+    "starBaker": [
+      "Nadiya"
+    ],
+    "technicalWinner": [
+      "Nadiya"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Flora",
+      "Ian",
+      "Nadiya",
+      "Paul",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 9,
+    "theme": "Chocolate (Semi-final)",
+    "synopsis": "For the first challenge, the bakers had two and a half hours to make a chocolate tart. The tart had to be ornate, intricate, and full of flavour. For the technical, the bakers faced a staggered start, and were each given one hour and fifteen minutes to make a chocolate soufflé – with Flora starting first, followed by Ian, Nadiya, then Tamal. A chocolate centrepiece was set as the showstopper. In four hours, the bakers had to create an ornate centrepiece using white chocolate in some form and including a biscuit element, the centrepiece having to be free-standing and attractive. Flora's elimination meant that she was the first baker to have finished first in the technical challenge and be eliminated the same week.",
+    "eliminated": [
+      "Flora"
+    ],
+    "starBaker": [
+      "Nadiya"
+    ],
+    "technicalWinner": [
+      "Flora"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Flora",
+      "Ian",
+      "Nadiya",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 6,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "In the final signature challenge, the bakers had to make 16 iced buns, of which there must be two kinds, in three hours. In the technical, the judges decided to use one of Paul's recipes; the bakers had to bake six raspberry-flavoured mille-feuille with fondant icing in two hours. The recipe involved pastry – something all of the bakers had struggled with in Week Six. In the final Showstopper, the bakers were given four hours to make a classic British cake in a minimum three-layered presentation.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Nadiya"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Ian",
+      "Nadiya",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 1,
+    "theme": "Cake",
+    "synopsis": "For the first challenge, the bakers were given two hours to make a drizzle cake, the brief being that the cake be moist and well permeated with the drizzle. For the technical challenge, the bakers were instructed to make Mary's recipe for twelve jaffa cakes. The recipe used a whipped fatless sponge, orange jelly and tempered chocolate with a design of sorts. For the final challenge, the bakers were instructed to make a mirror glaze cake. The cake had to have a genoise sponge and have a very shiny, mirror-like top, covering the cake entirely.",
+    "eliminated": [
+      "Lee"
+    ],
+    "starBaker": [
+      "Jane"
+    ],
+    "technicalWinner": [
+      "Selasi"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Kate",
+      "Lee",
+      "Louise",
+      "Michael",
+      "Rav",
+      "Selasi",
+      "Tom",
+      "Val"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the Signature Challenge, the bakers were given two and a half hours to make 24 iced biscuits (cookies). The biscuits had to be crisp and uniform. Viennese Whirls were set as the technical challenge. To be completed in an hour and a half, they had to be filled with buttercream and jam, and had have a defined shape. For the showstopper, a gingerbread scene was set as the challenge, the only brief being it that it had to be 30 cm high, and contain eight characters or objects. The bakers had four hours for this challenge.",
+    "eliminated": [
+      "Louise"
+    ],
+    "starBaker": [
+      "Candice"
+    ],
+    "technicalWinner": [
+      "Kate"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Kate",
+      "Louise",
+      "Michael",
+      "Rav",
+      "Selasi",
+      "Tom",
+      "Val"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For the bakers' first challenge, they had to make a chocolate loaf in two and a half hours. The loaf had to contain chocolate in some form, whether it be cocoa powder or actual pieces of chocolate. For the technical challenge, the bakers were required to make twelve Dampfnudel, a recipe Paul called \"notoriously difficult\". In two hours, the bakers had to make twelve steamed bread rolls with two types of sauce. A savoury plaited (braided) centrepiece was set as the showstopper, to be created using at least three different flours, in four hours.",
+    "eliminated": [
+      "Michael"
+    ],
+    "starBaker": [
+      "Tom"
+    ],
+    "technicalWinner": [
+      "Val"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Kate",
+      "Michael",
+      "Rav",
+      "Selasi",
+      "Tom",
+      "Val"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 4,
+    "theme": "Batter",
+    "synopsis": "The first task was to make Yorkshire puddings, in 2 hours. The bakers used the standard recipe filled with a variety of savory ingredients and flavors. The technical challenge gave the bakers 1 hour to make 12 heart-shaped \"lace\" pancakes, which required them to draw a heart-shaped design with the batter. They were only allowed one practice pancake. The showstopper challenge was to make 36 sweet churros in 3 hours.",
+    "eliminated": [
+      "Kate"
+    ],
+    "starBaker": [
+      "Benjamina"
+    ],
+    "technicalWinner": [
+      "Benjamina"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Kate",
+      "Rav",
+      "Selasi",
+      "Tom",
+      "Val"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 5,
+    "theme": "Pastry",
+    "synopsis": "For the signature bake, bakers were tasked with baking 24 breakfast pastries. Two different batches of 12 pastries were to be made. The technical challenge required the bakers to make one feathered Bakewell tart. For the showstopper challenge, the bakers were challenged to make 48 filled filo amuse-bouche; 24 with a savoury filling and 24 with a sweet filling.",
+    "eliminated": [
+      "Val"
+    ],
+    "starBaker": [
+      "Candice"
+    ],
+    "technicalWinner": [
+      "Jane"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Rav",
+      "Selasi",
+      "Tom",
+      "Val"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 6,
+    "theme": "Botanical",
+    "synopsis": "In the signature, the seven remaining bakers were asked to create a meringue pie containing citrus fruit, such as orange, grapefruits and lemons. In the technical, the contestants had to create two leaf-shaped herb fougasses. In the showstopper, the contestants were asked to create a three-tier cake with a flower theme. All the tiers could be the same flavour, or each one a different flavour, and the cakes could be decorated with flowers.",
+    "eliminated": [
+      "Rav"
+    ],
+    "starBaker": [
+      "Tom"
+    ],
+    "technicalWinner": [
+      "Tom"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Rav",
+      "Selasi",
+      "Tom"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 7,
+    "theme": "Desserts",
+    "synopsis": "The Signature challenge required the bakers to make a family-sized roulade in ​1 1⁄2 hours. The judges were looking for a light sponge cake, even layers of filling, and a clean swirl. The technical challenge gave the bakes 3 hours to make a Marjolaine or Dacquoise, an unusual layered cake made with meringue, decorated with ganache and nuts. The showstopper challenge allocated 4 hours for the bakers to make 24 mini mousse cakes in two flavours (12 of each).",
+    "eliminated": [
+      "Tom"
+    ],
+    "starBaker": [
+      "Andrew"
+    ],
+    "technicalWinner": [
+      "Andrew"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Selasi",
+      "Tom"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 8,
+    "theme": "Tudor",
+    "synopsis": "Week eight featured the show's first Tudor theme, featuring food common in the 16th century. During the signature challenge, the five remaining bakers were asked to bake a shaped pie with Tudor flavours. The pie could be any type of pastry and they could use whichever fillings they wanted. In the technical, the contestants were asked to produce a dozen jumbles – six knot balls and six Celtic knots. In the showstopper challenge, the contestants were asked to bake a marchpane (marzipan) cake in a three-dimensional shape. However, all of the cakes had to be Tudor-themed.",
+    "eliminated": [
+      "Benjamina"
+    ],
+    "starBaker": [
+      "Candice"
+    ],
+    "technicalWinner": [
+      "Candice"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Andrew",
+      "Benjamina",
+      "Candice",
+      "Jane",
+      "Selasi"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "The first task for pastry or pâtisserie week required the remaining four contestants to bake 24 palmiers, with two different savoury fillings and shapes. The technical challenge was to make a Savarin, a liqueur-soaked yeast cake, which none of the contestants had made before. The final challenge was to make 36 fondant fancies.",
+    "eliminated": [
+      "Selasi"
+    ],
+    "starBaker": [
+      "Andrew"
+    ],
+    "technicalWinner": [
+      "Jane"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Andrew",
+      "Candice",
+      "Jane",
+      "Selasi"
+    ]
+  },
+  {
+    "series": 7,
+    "episode": 10,
+    "theme": "Royal Picnic (Final)",
+    "synopsis": "In the final signature challenge, the bakers had to make a filled meringue crown, which had to contain at least three layers of meringue, in three hours. In the technical, the judges decided to make a familiar bake challenging: the bakers had to make a Victoria sandwich, with no recipe or method given, in 90 minutes. The final showstopper involved the largest number of bakes ever requested in a challenge. The bakers were given five hours to make a picnic fit for the Queen, including one chocolate celebration cake, 12 sausage rolls, 12 mini quiches, 12 savoury scones and 12 fruit and custard tarts.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Andrew"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Andrew",
+      "Candice",
+      "Jane"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 1,
+    "theme": "Cakes",
+    "synopsis": "For the first challenge, the bakers were instructed to make a cake using fresh fruit, with no dried fruit permitted, in two hours. For the technical challenge, the bakers were instructed to make 12 chocolate mini rolls using Prue's recipe which contains peppermint cream, in two hours. The showstopper challenge required the bakers to make an illusion cake: a cake that appears to be some other object. They had four hours to complete the task.",
+    "eliminated": [
+      "Peter"
+    ],
+    "starBaker": [
+      "Steven"
+    ],
+    "technicalWinner": [
+      "Kate"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Chris",
+      "Flo",
+      "James",
+      "Julia",
+      "Kate",
+      "Liam",
+      "Peter",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Tom",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the Signature Challenge, the bakers were instructed to make 24 sandwich biscuits in 2 hours and 15 minutes. For the technical challenge, the bakers faced a very difficult challenge of making fortune cookies of two types of flavours – one is almond and one is orange, in 2 hours. For the final showstopper challenge, the bakers were required to make a biscuit board game that should be at least 40 cm long in diameter and has at least 8 elements in 3 ½ hours.",
+    "eliminated": [
+      "Chris"
+    ],
+    "starBaker": [
+      "Steven"
+    ],
+    "technicalWinner": [
+      "Yan"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Chris",
+      "Flo",
+      "James",
+      "Julia",
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Tom",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "The bakers were instructed to make 12 teacakes in ​2 3⁄4 hours in the signature challenge. For the technical challenge, the bakers were tasked to make a cottage loaf in 2½ hours. For the showstopper challenge, the bakers were required to make a multicoloured bread sculpture with at least three colours using natural food colouring in ​4 1⁄2 hours.",
+    "eliminated": [
+      "Flo"
+    ],
+    "starBaker": [
+      "Julia"
+    ],
+    "technicalWinner": [
+      "Stacey"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Flo",
+      "James",
+      "Julia",
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Tom",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 4,
+    "theme": "Caramel",
+    "synopsis": "For the first signature challenge, the bakers were required to produce 18 identical millionaire shortbread bars in 2 hours and 15 minutes. The technical challenge was set by Prue where the bakers were tasked to make stroopwafels in 1 hour and 45 minutes. Only one test waffle was allowed, and the challenge proved to be a very difficult one for the bakers with none of them producing an adequate caramel. For the final showstopper challenge, the bakers were required to make a caramel cake consisting of at least three layers of sponge in 3 ½ hours. They were required to incorporate spun sugar into their decorations.",
+    "eliminated": [
+      "Tom"
+    ],
+    "starBaker": [
+      "Kate"
+    ],
+    "technicalWinner": [
+      "Stacey"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "James",
+      "Julia",
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Tom",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 5,
+    "theme": "Puddings",
+    "synopsis": "For the signature challenge, the eight remaining bakers were required to bake a steamed school pudding with an accompaniment such as a compote or a custard in 3 hours. The technical challenge was set by Paul, which was 6 molten chocolate puddings with a peanut butter filling in 1 hour. Each baker was called one at a time so their puddings could be ready at different times for Paul and Prue to judge (starting with Julia, followed by Sophie, Liam, Steven, Yan, Kate, James and finally Stacey). For the showstopper challenge, the bakers were asked to bake an ornamental trifle terrine with three elements – a baked element, a set custard or mousse, and a jelly, in 4 ½ hours .",
+    "eliminated": [
+      "James"
+    ],
+    "starBaker": [
+      "Sophie"
+    ],
+    "technicalWinner": [
+      "Sophie"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "James",
+      "Julia",
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 6,
+    "theme": "Pastry",
+    "synopsis": "In the signature challenge, the bakers were required to produce four decorative savoury pies using shortcrust pastry with different designs on the pies that share a common theme in 2½ hours. For the technical challenge, set by Paul, the bakers were tasked to produce 12 pastéis de nata using rough puff pastry in 2 hours. For the final showstopper challenge, the bakers were required to produce a family-sized hand-raised pie with a savoury filling using hot water crust pastry, topped with glazed fruits in 4 hours.",
+    "eliminated": [
+      "Julia"
+    ],
+    "starBaker": [
+      "Liam"
+    ],
+    "technicalWinner": [
+      "Yan"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Julia",
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 7,
+    "theme": "Italian",
+    "synopsis": "For the first ever Italian week in Bake Off, the bakers were given ​2 1⁄2 hours to make the required 18 Sicilian Cannolis with three different types of fillings. This week's Italian technical challenge was set by Prue, where the bakers were tasked to make the well-known, yet tricky, Pizza Margherita with a thin crispy base in ​1 1⁄2 hours. For the showstopper challenge, the bakers were required to make a very technically challenging and fiddly Italian bake: 24 Sfogliatelles with two types of fillings in ​4 1⁄2 hours.",
+    "eliminated": [
+      "Yan"
+    ],
+    "starBaker": [
+      "Steven"
+    ],
+    "technicalWinner": [
+      "Steven"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven",
+      "Yan"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 8,
+    "theme": "Forgotten Bakes",
+    "synopsis": "The bakers were required to make four Bedfordshire Clangers within two hours in the signature challenge. Each must contain a savoury filling at one end and a sweet filling at the other, and be made from suet crust pastry. In the technical challenge, set by Paul, the bakers were given one and a half hours to make a traditional Cumberland Rum Nicky: a large tart consisting of a sweet shortcrust pastry and a rum-soaked fruity filling covered with a lattice top, and served with a smooth rum butter. For the historic showstopper the bakers had three and a half hours to make a Victorian Savoy cake, a sponge cake baked in a mold, often in elaborate architectural shapes, with a hard sugar crust or coating that helped preserve it as it served as a banquet centrepiece.",
+    "eliminated": [
+      "Liam"
+    ],
+    "starBaker": [
+      "Stacey"
+    ],
+    "technicalWinner": [
+      "Steven"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Kate",
+      "Liam",
+      "Sophie",
+      "Stacey",
+      "Steven"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the semifinal signature bakes, the bakers were asked to make 24 choux buns, in which 12 must have a crunchy craquelin on top and the other 12 must be covered with icing. The penultimate technical challenge was set by Prue, where the bakers were tasked with a very difficult job of making 9 Les Misérables slices. For the showstopper challenge before the final, the bakers were asked to make a meringue centrepiece, containing at least two different types of meringue and a dessert element, in 4 hours and 45 minutes.",
+    "eliminated": [
+      "Stacey"
+    ],
+    "starBaker": [
+      "Sophie"
+    ],
+    "technicalWinner": [
+      "Sophie"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Kate",
+      "Sophie",
+      "Stacey",
+      "Steven"
+    ]
+  },
+  {
+    "series": 8,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "For the signature challenge in the final, the last three bakers were tasked to make a batch of 12 small loaves. There must be three different types of loaves: four need to be intricately shaped (e.g. plaited), four need to be flavoured, and four need to be made from an alternative grain such as spelt or buckwheat, in 3 hours. Prue set the final technical challenge, asking the bakers to make 10 ginger biscuits, half oval and half square, in 2½ hours. They each had to have a great snap and be intricately iced with two complicated patterns. For the ultimate showstopper challenge, the bakers were tasked to make one large entremet, having a minimum of five elements, one of which must be a sponge, and covered with a glaze or ganache, all in five hours.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Steven"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Kate",
+      "Sophie",
+      "Steven"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 1,
+    "theme": "Biscuits",
+    "synopsis": "Breaking with tradition, this year the series kicked off with biscuit week. For the first challenge of the series, the bakers were tasked to bake 24 regional biscuits that needed to be all identical, and said something about them and a place in the British Isles. For the first technical challenge of this series, they are tasked to make one of Paul's childhood favourites - Wagon Wheels. Finally, for the showstopper, the bakers had to create a spectacular 3D biscuit self-portrait that needed to be constructed with layers of biscuits and judged while placed upright on an easel stand.",
+    "eliminated": [
+      "Imelda"
+    ],
+    "starBaker": [
+      "Manon"
+    ],
+    "technicalWinner": [
+      "Ruby"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Antony",
+      "Briony",
+      "Dan",
+      "Imelda",
+      "Jon",
+      "Karen",
+      "Kim-Joy",
+      "Luke",
+      "Manon",
+      "Rahul",
+      "Ruby",
+      "Terry"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 2,
+    "theme": "Cakes",
+    "synopsis": "For their signature bakes, the bakers were required to create a traybake sliced into 16 identical pieces. The technical challenge was set by Prue, which featured a cake with an unusual ingredient: Le Gâteau Vert, one of French painter Claude Monet's favourite birthday treats. The cake featured a pistachio genoise sponge sandwiched by a pistachio Crème au Beurre and covered by a green fondant coloured by spinach. For the showstopper, the bakers were required to create a technically demanding chocolate collar cake, featuring at least two tiers.",
+    "eliminated": [
+      "Luke"
+    ],
+    "starBaker": [
+      "Rahul"
+    ],
+    "technicalWinner": [
+      "Jon"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Antony",
+      "Briony",
+      "Dan",
+      "Jon",
+      "Karen",
+      "Kim-Joy",
+      "Luke",
+      "Manon",
+      "Rahul",
+      "Ruby",
+      "Terry"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For their signature bakes the bakers had three hours to create a British classic: 12 Chelsea buns. In the technical challenge the bakers, using Paul's recipe, were tasked to make a batch of 8 grilled non-yeasted garlic naan breads, brushed with garlic ghee and topped with coriander, in only one hour. Finally, for their 5-hour showstopper, the bakers were asked to create a three-tiered Korovai, elaborately decorated for a celebratory occasion; most of the bakers chose the traditional wedding theme.",
+    "eliminated": [
+      "Antony"
+    ],
+    "starBaker": [
+      "Rahul"
+    ],
+    "technicalWinner": [
+      "Terry"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Antony",
+      "Briony",
+      "Dan",
+      "Jon",
+      "Karen",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby",
+      "Terry"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 4,
+    "theme": "Desserts",
+    "synopsis": "At the start of this episode, it was announced that Terry was not able to compete this week due to illness. But, with the agreement of all, he would be allowed to come back to the competition the following week. For their signature bakes, the bakers were required to create a meringue roulade. For their technical challenge, using Prue's recipe, the bakers were tasked to produce a raspberry blancmange served with 12 Langues de Chat biscuits. For their showstoppers, the bakers were tasked to create a spectacular melting chocolate ball dessert: a chocolate sphere which would be melted away with a hot sauce, revealing the dessert hidden inside. After the three challenges, Briony and Karen were left as the bottom two. However, nobody was eliminated this week, as the judges deemed it would be unfair to send anyone home with Terry's absence. However, this meant two bakers would be eliminated the following week.",
+    "eliminated": [],
+    "starBaker": [
+      "Dan"
+    ],
+    "technicalWinner": [
+      "Dan"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Briony",
+      "Dan",
+      "Jon",
+      "Karen",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby",
+      "Terry"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 5,
+    "theme": "Spice",
+    "synopsis": "For the signature challenge, the bakers were tasked to bake a ginger cake. For the technical challenge, using Paul's recipe, the bakers must create a batch of 12 Ma'amoul, an ancient pastry from the Middle East that none of the bakers had heard of. In the batch, 6 of the ma'amoul must be filled with walnuts and shaped with a mould, and the other 6 must be filled with a date paste and decorated by pinching the dough with ma'amoul tongs. For their showstoppers, the bakers were tasked to create a beautiful, gravity-defying spiced biscuit chandelier. Prue was unwell during the showstoppers round, and as a result, Paul was left as the solo judge.",
+    "eliminated": [
+      "Karen",
+      "Terry"
+    ],
+    "starBaker": [
+      "Kim-Joy"
+    ],
+    "technicalWinner": [
+      "Ruby"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Briony",
+      "Dan",
+      "Jon",
+      "Karen",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby",
+      "Terry"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 6,
+    "theme": "Pastry",
+    "synopsis": "For the signature challenge, the bakers were tasked to make 12 samosas, in which 6 must be savoury and the other 6 must be sweet. The samosas must also be served with a dip to complement them. The technical challenge was set by Prue, and the bakers were required to make 6 Puits D'amour, meaning \"well of love\". For the showstopper challenge, the bakers were tasked to create a shaped banquet pie that would be beautifully decorated enough to act as a centrepiece at a Tudor's banquet.",
+    "eliminated": [
+      "Dan"
+    ],
+    "starBaker": [
+      "Briony"
+    ],
+    "technicalWinner": [
+      "Briony"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Briony",
+      "Dan",
+      "Jon",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 7,
+    "theme": "Vegan",
+    "synopsis": "The remaining six bakers were required in the signature challenge to make eight savoury vegan tartlets of two different fillings using shortcrust pastry that contained no butter or eggs. For the technical challenge, using Prue's recipe, the bakers were tasked to make a vegan tropical fruit pavlova using aquafaba in place of egg whites to create the meringue. For the showstopper, the bakers were tasked to create a beautiful vegan celebratory cake.",
+    "eliminated": [
+      "Jon"
+    ],
+    "starBaker": [
+      "Kim-Joy"
+    ],
+    "technicalWinner": [
+      "Rahul"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Briony",
+      "Jon",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 8,
+    "theme": "Danish",
+    "synopsis": "In the quarterfinal signature challenge, the final five bakers were tasked to make a rye bread and make two types of Smørrebrød using it. For the technical challenge, the bakers were instructed to make 14 Æbleskiver containing a cinnamon and apple filling, and served with a strawberry jam dipping sauce. For the showstopper challenge, the bakers were required to make a kagemand or a kagekone, a traditional Danish birthday cake made from Danish pastry that resemble a boy or a girl. The bakers' kagemand/kagekone must be based on someone the bakers recognised and they must use at least three different confectionery making skills within it.",
+    "eliminated": [
+      "Manon"
+    ],
+    "starBaker": [
+      "Ruby"
+    ],
+    "technicalWinner": [
+      "Briony"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Briony",
+      "Kim-Joy",
+      "Manon",
+      "Rahul",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "In the Pâtisserie semifinal signature challenge, the bakers were tasked to make 24 dipped Madeleines in two designs and flavours, in 90 minutes. For the technical challenge, the bakers tackled Prue's complex recipe for Torta Setteveli, a seven-layered cake containing two light chocolate genoise sponges, hazelnut bavarois, crunchy praline base and a chocolate mousse, topped with a chocolate mirror glaze, to be completed in four 1/2 hours. For the penultimate showstopper challenge, the bakers created a Parisian pâtisserie window containing 36 pâtisserie in three types: choux pastry, pate sucree and puff pastry mille-feuille, in five hours.",
+    "eliminated": [
+      "Briony"
+    ],
+    "starBaker": [
+      "Ruby"
+    ],
+    "technicalWinner": [
+      "Ruby"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Briony",
+      "Kim-Joy",
+      "Rahul",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 9,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "For the final signature challenge, the last three bakers were required to make 12 iced doughnuts of two types, filled and ring, in three hours. The technical challenge was another Bake Off first, where the bakers were asked to carry out the challenge outside the tent. Using Paul's recipe, the bakers needed to produce 6 pita breads in 90 minutes, to be served with three different dips: baba ghanoush, smoked garlic salsa verde and burnt pepper salsa, using the open campfire set up outside. For the final showstopper, the bakers were asked to create an incredible landscape dessert with at least three different elements within it, in four and a half hours. During the showstopper, one of Rahul's storage glass jar exploded under the intense heat, which resulted in shards of broken glass shattered all over his bench and potentially contaminated his bakes. This required cleaning up from the production team. As a result, he was given an extra 15 minutes for the challenge.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Kim-Joy"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Kim-Joy",
+      "Rahul",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 1,
+    "theme": "Cake",
+    "synopsis": "For the signature challenge, the bakers had to bake a fruit cake in the shape of their choice, with a significant amount of dried fruit, and lavish decoration in 2½ hours. For the technical challenge set by Prue, the bakers had to bake six identical angel cake slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered in 1¾ hour. For the showstopper challenge, the bakers baked the birthday cake they always dreamed of as a child in 4 hours.",
+    "eliminated": [
+      "Dan"
+    ],
+    "starBaker": [
+      "Michelle"
+    ],
+    "technicalWinner": [
+      "Henry"
+    ],
+    "bakersRemaining": 12,
+    "participants": [
+      "Alice",
+      "Amelia",
+      "David",
+      "Dan",
+      "Helena",
+      "Henry",
+      "Jamie",
+      "Michael",
+      "Michelle",
+      "Phil",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars in 2½ hours. For the technical challenge, Paul tasked a \"controversial\" bake that was his dad's favourite – 12 fig rolls which were identical in shape and size in 1½ hour. For the showstopper, the bakers were asked to create a 3D biscuit sculpture in 4 hours.",
+    "eliminated": [
+      "Jamie"
+    ],
+    "starBaker": [
+      "Alice"
+    ],
+    "technicalWinner": [
+      "Alice"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Alice",
+      "Amelia",
+      "David",
+      "Helena",
+      "Henry",
+      "Jamie",
+      "Michael",
+      "Michelle",
+      "Phil",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For the signature challenge this week, the bakers were asked to make a Tear & Share loaf in 3 hours. For the technical challenge, Paul asked the bakers to make 8 burger baps, along with 4 veggie burgers to go inside half of them. For the showstopper challenge, the bakers were given the task to make a display of artistically scored loaves.",
+    "eliminated": [
+      "Amelia"
+    ],
+    "starBaker": [
+      "Michael"
+    ],
+    "technicalWinner": [
+      "Henry"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Alice",
+      "Amelia",
+      "David",
+      "Helena",
+      "Henry",
+      "Michael",
+      "Michelle",
+      "Phil",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 4,
+    "theme": "Dairy",
+    "synopsis": "For the signature challenge this week, Paul and Prue tasked the bakers with a Dairy Cake, but the cake mixture needed to contain a cultured dairy product. For the technical challenge, Prue asked the bakers to make a difficult bake that dated back to the Tudor times, twelve Maids of Honour. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based Indian sweets known as Mishti.",
+    "eliminated": [
+      "Phil"
+    ],
+    "starBaker": [
+      "Steph"
+    ],
+    "technicalWinner": [
+      "Steph"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Alice",
+      "David",
+      "Helena",
+      "Henry",
+      "Michael",
+      "Michelle",
+      "Phil",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 5,
+    "theme": "The Roaring Twenties",
+    "synopsis": "For the signature challenge, the bakers were tasked to produce 4 custard pies which should be elaborately decorated with the theme of the 1920s. For the technical challenge, the bakers faced a difficult challenge set by Prue of deep-frying Choux pastry to produce 18 Beignet Soufflés filled with raspberry jam and served with a zabaglione. For the showstopper challenge, the bakers were tasked to create a prohibition cocktail cake, with at least two tiers, in memory of the prohibition era in the United States.",
+    "eliminated": [
+      "Helena",
+      "Michelle"
+    ],
+    "starBaker": [
+      "Steph"
+    ],
+    "technicalWinner": [
+      "Helena"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Alice",
+      "David",
+      "Helena",
+      "Henry",
+      "Michael",
+      "Michelle",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 6,
+    "theme": "Desserts",
+    "synopsis": "For the signature challenge this week, the bakers were asked to make a layered meringue cake with a minimum of three layers and 'large enough to share with friends' in 2 hrs 45 mins. For the technical challenge, Prue gave the bakers a particularly difficult task that tested the bakers precision, six identical layered Verrines in 2 hrs 30 mins. For showstopper challenge, the bakers were tasked with an explosive bake, a Celebratory Bombe in 4 hrs 30 mins.",
+    "eliminated": [
+      "Priya"
+    ],
+    "starBaker": [
+      "Steph"
+    ],
+    "technicalWinner": [
+      "Alice"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Alice",
+      "David",
+      "Henry",
+      "Michael",
+      "Priya",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 7,
+    "theme": "Festivals",
+    "synopsis": "For the signature challenge, the bakers were asked to make 24 buns with the theme of a festival or holiday from around the world. For the technical challenge, Paul tasked the bakers with a deep fried pastry treat traditionally served during the Italian Carnevale, 12 Sicilian Cassatelles. For the showstopper challenge, the bakers were set with the complex task of making a kek lapis Sarawak, a traditional layered Malaysian cake.",
+    "eliminated": [
+      "Michael"
+    ],
+    "starBaker": [
+      "Henry"
+    ],
+    "technicalWinner": [
+      "Rosie"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Alice",
+      "David",
+      "Henry",
+      "Michael",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 8,
+    "theme": "Pastry",
+    "synopsis": "For the signature challenge, the bakers were tasked to do a savoury twist on a usually sweet French classic, Tarte Tatin. For the technical challenge, the bakers were given the challenging task of recreating a Moroccan Pie made from warka pastry (also known as brik pastry). For the showstopper challenge, the bakers were asked to create a vertical pie consisting of at least two separate pies.",
+    "eliminated": [
+      "Henry"
+    ],
+    "starBaker": [
+      "Steph"
+    ],
+    "technicalWinner": [
+      "David"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Alice",
+      "David",
+      "Henry",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the signature challenge, the bakers had 2 1/2 hours to make eight identically decorated domed tarts. Prue's technical challenge was making a Gâteau Saint Honoré, a French classic involving both choux and puff pastry, plus a large amount of cream fillings, all in 3 1/2 hours. For the showstopper challenge, the bakers were given the difficult task of making a sugar glass display case, enclosing a display of pâtisserie or other lavish baked goods, in 4 1/2 hours.",
+    "eliminated": [
+      "Rosie"
+    ],
+    "starBaker": [
+      "Alice"
+    ],
+    "technicalWinner": [
+      "Rosie"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Alice",
+      "David",
+      "Rosie",
+      "Steph"
+    ]
+  },
+  {
+    "series": 10,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "For the final signature challenge, the remaining three bakers were given 2 hours to create the ultimate chocolate cake, that should be rich in chocolate and be beautifully decorated. For the final technical challenge, set by Paul, the bakers were given 1 hour 10 minutes to create six twice-baked Stilton Soufflés, each served with a lavash cracker. For the final showstopper challenge, the bakers were required to create a deceptive illusion picnic basket feast composed of cakes, biscuits and enriched breads that were presented to look like something else, in 4 1/2 hours.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "David"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Alice",
+      "David",
+      "Steph"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 1,
+    "theme": "Cake",
+    "synopsis": "For the signature challenge, the bakers created an intricate Battenberg cake. For the technical challenge set by Paul, the bakers baked six miniature pineapple upside-down cakes. At the end of the challenge, Sura, who saw a fly and was trying to brush it away, accidentally hit Dave's tray of six miniature cakes as he was setting them down, knocking four to the floor. Prue and Paul judged the better looking of the remaining two, assuming the rest were the same. For the showstopper challenge, the bakers created a 3-D cake bust depicting their personal celebrity hero.",
+    "eliminated": [
+      "Loriea"
+    ],
+    "starBaker": [
+      "Peter"
+    ],
+    "technicalWinner": [
+      "Sura"
+    ],
+    "bakersRemaining": 11,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Linda",
+      "Loriea",
+      "Lottie",
+      "Mak",
+      "Marc",
+      "Mark",
+      "Peter",
+      "Rowan",
+      "Sura"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 2,
+    "theme": "Biscuits",
+    "synopsis": "For the signature challenge, the bakers were tasked with making 36 identical chocolate florentines. The technical challenge, set by Prue, required the bakers to make 12 hand-shaped coconut macaroons; six to be filled by a mango curd, with the other six to be filled with chocolate. For the showstopper challenge, the bakers were tasked with creating a beautiful molded 3D biscuit table setting to represent a memorable meal they had in the past.",
+    "eliminated": [
+      "Mak"
+    ],
+    "starBaker": [
+      "Dave"
+    ],
+    "technicalWinner": [
+      "Dave"
+    ],
+    "bakersRemaining": 10,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Linda",
+      "Lottie",
+      "Mak",
+      "Marc",
+      "Mark",
+      "Peter",
+      "Rowan",
+      "Sura"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 3,
+    "theme": "Bread",
+    "synopsis": "For the signature challenge, the bakers were tasked with making two soda bread loaves; one savoury and one sweet. The technical challenge, set by Paul, tasked the bakers with making 6 rainbow-coloured bagels in honour of the NHS. For the showstopper challenge, the bakers were asked to create a large decorative bread plaque in the style of a traditional harvest festival sheaf, portraying the one thing in life they are most grateful for.",
+    "eliminated": [
+      "Rowan"
+    ],
+    "starBaker": [
+      "Marc"
+    ],
+    "technicalWinner": [
+      "Linda"
+    ],
+    "bakersRemaining": 9,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Linda",
+      "Lottie",
+      "Marc",
+      "Mark",
+      "Peter",
+      "Rowan",
+      "Sura"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 4,
+    "theme": "Chocolate",
+    "synopsis": "For the signature challenge, it was back to basics as the bakers were asked to make 18 chocolate brownies. For the technical, Paul tasked the bakers with making a traditional Jewish bake: chocolate Babka. For the showstopper challenge, the bakers were tasked with making a spectacular two-tiered white chocolate celebration cake.",
+    "eliminated": [
+      "Sura"
+    ],
+    "starBaker": [
+      "Mark"
+    ],
+    "technicalWinner": [
+      "Linda"
+    ],
+    "bakersRemaining": 8,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Linda",
+      "Lottie",
+      "Marc",
+      "Mark",
+      "Peter",
+      "Sura"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 5,
+    "theme": "Pastry",
+    "synopsis": "For the signature, the bakers were tasked with putting their own spin on Cornwall's national dish: the pasty. For the technical challenge, set by Prue, the bakers were required to make six éclairs: three raspberry, and three salted caramel. For the showstopper, the bakers were given the intricate task of making a sweet tart hidden under a latticed pastry cage.",
+    "eliminated": [
+      "Linda"
+    ],
+    "starBaker": [
+      "Laura"
+    ],
+    "technicalWinner": [
+      "Peter"
+    ],
+    "bakersRemaining": 7,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Linda",
+      "Lottie",
+      "Marc",
+      "Mark",
+      "Peter"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 6,
+    "theme": "Japanese",
+    "synopsis": "In week 6, it was a Bake Off first as the bakers tackled Japanese week. For the signature challenge, the bakers were tasked with making eight steamed buns, complete with a savoury or sweet filling and decorations. For the technical challenge, Prue asked the bakers to make a Matcha Crepe Cake consisting of 12 layers of crepes sandwiched with a white chocolate ganache buttercream and strawberries, decorated with fresh fruits and edible flowers on top. For the showstopper, the bakers were tasked with making a cake inspired by the kawaii culture in Japan, incorporating Japanese flavours within it.",
+    "eliminated": [
+      "Mark"
+    ],
+    "starBaker": [
+      "Lottie"
+    ],
+    "technicalWinner": [
+      "Peter"
+    ],
+    "bakersRemaining": 6,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Lottie",
+      "Marc",
+      "Mark",
+      "Peter"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 7,
+    "theme": "The '80s",
+    "synopsis": "For the signature challenge, the bakers were asked to perform their own twist on eight classical quiches with two different styles. For the technical challenge, Paul asked the bakers to make six deep-fried, identical custard & jam finger doughnuts. For the showstopper challenge, the bakers were required to make an ice cream cake, which was quite a challenge considering it was the hottest day of the year.",
+    "eliminated": [
+      "Lottie"
+    ],
+    "starBaker": [
+      "Hermine"
+    ],
+    "technicalWinner": [
+      "Hermine"
+    ],
+    "bakersRemaining": 5,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Lottie",
+      "Marc",
+      "Peter"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 8,
+    "theme": "Desserts",
+    "synopsis": "For the signature challenge, the bakers were tasked with making twelve mini baked cheesecakes. For the technical challenge, Prue set a 17th century bake: two Sussex pond puddings using suet pastry and served with creme anglaise. For the showstopper challenge, the bakers were given the enormous task of making a jelly art design cake, composed of an artistic jelly design, a mousse and a baked element.",
+    "eliminated": [
+      "Marc"
+    ],
+    "starBaker": [
+      "Hermine"
+    ],
+    "technicalWinner": [
+      "Laura"
+    ],
+    "bakersRemaining": 4,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Marc",
+      "Peter"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 9,
+    "theme": "Pâtisserie (Semi-final)",
+    "synopsis": "For the signature challenge, the bakers were tasked with making 12 Pâte à Savarin. The penultimate technical challenge was set by Paul, when the bakers were given the challenging task of making a Danish Cornucopia cake (kransekake). For the showstopper challenge, the bakers were asked to make 25 cube-shaped cakes that require precision expected in pâtisseries.",
+    "eliminated": [
+      "Hermine"
+    ],
+    "starBaker": [
+      "Peter"
+    ],
+    "technicalWinner": [
+      "Peter"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Dave",
+      "Hermine",
+      "Laura",
+      "Peter"
+    ]
+  },
+  {
+    "series": 11,
+    "episode": 10,
+    "theme": "Final",
+    "synopsis": "For the final signature challenge, the finalists were tasked with making eight beautifully decorated custard slices. For the final technical challenge, Prue asked the bakers to make eight identical walnut whirls — a cone of chocolate with marshmallow inside, a biscuit base, and topped with walnuts. For the final showstopper challenge, the bakers were tasked with making a colossal, spectacular dessert tower with a large cake at the base and at least three sections to represent the different baking disciplines.",
+    "eliminated": [],
+    "starBaker": [],
+    "technicalWinner": [
+      "Dave"
+    ],
+    "bakersRemaining": 3,
+    "participants": [
+      "Dave",
+      "Laura",
+      "Peter"
+    ]
+  }
+]

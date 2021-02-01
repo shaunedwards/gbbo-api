@@ -1,0 +1,870 @@
+[
+  {
+    "series": 1,
+    "episode": 1,
+    "airdate": "17 August 2010",
+    "overSevenDays": 2.24,
+    "networkWeeklyRanking": 7
+  },
+  {
+    "series": 1,
+    "episode": 2,
+    "airdate": "24 August 2010",
+    "overSevenDays": 3,
+    "networkWeeklyRanking": 3
+  },
+  {
+    "series": 1,
+    "episode": 3,
+    "airdate": "31 August 2010",
+    "overSevenDays": 3,
+    "networkWeeklyRanking": 2
+  },
+  {
+    "series": 1,
+    "episode": 4,
+    "airdate": "7 September 2010",
+    "overSevenDays": 2.6,
+    "networkWeeklyRanking": 4
+  },
+  {
+    "series": 1,
+    "episode": 5,
+    "airdate": "14 September 2010",
+    "overSevenDays": 3.03,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 1,
+    "episode": 6,
+    "airdate": "21 September 2010",
+    "overSevenDays": 2.75,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 1,
+    "airdate": "16 August 2011",
+    "overSevenDays": 3.1,
+    "networkWeeklyRanking": 2
+  },
+  {
+    "series": 2,
+    "episode": 2,
+    "airdate": "23 August 2011",
+    "overSevenDays": 3.53,
+    "networkWeeklyRanking": 2
+  },
+  {
+    "series": 2,
+    "episode": 3,
+    "airdate": "30 August 2011",
+    "overSevenDays": 3.82,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 4,
+    "airdate": "6 September 2011",
+    "overSevenDays": 3.6,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 5,
+    "airdate": "13 September 2011",
+    "overSevenDays": 3.83,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 6,
+    "airdate": "20 September 2011",
+    "overSevenDays": 4.25,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 7,
+    "airdate": "27 September 2011",
+    "overSevenDays": 4.42,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 2,
+    "episode": 8,
+    "airdate": "4 October 2011",
+    "overSevenDays": 5.06,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 1,
+    "airdate": "14 August 2012",
+    "overSevenDays": 3.85,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 2,
+    "airdate": "21 August 2012",
+    "overSevenDays": 4.6,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 3,
+    "airdate": "28 August 2012",
+    "overSevenDays": 4.53,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 4,
+    "airdate": "4 September 2012",
+    "overSevenDays": 4.71,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 5,
+    "airdate": "11 September 2012",
+    "overSevenDays": 4.61,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 6,
+    "airdate": "18 September 2012",
+    "overSevenDays": 4.82,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 7,
+    "airdate": "25 September 2012",
+    "overSevenDays": 5.1,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 8,
+    "airdate": "2 October 2012",
+    "overSevenDays": 5.35,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 9,
+    "airdate": "9 October 2012",
+    "overSevenDays": 5.7,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 3,
+    "episode": 10,
+    "airdate": "16 October 2012",
+    "overSevenDays": 6.74,
+    "networkWeeklyRanking": 1
+  },
+  {
+    "series": 4,
+    "episode": 1,
+    "airdate": "20 August 2013",
+    "overSevenDays": 6.6,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 11
+  },
+  {
+    "series": 4,
+    "episode": 2,
+    "airdate": "27 August 2013",
+    "overSevenDays": 6.65,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 12
+  },
+  {
+    "series": 4,
+    "episode": 3,
+    "airdate": "3 September 2013",
+    "overSevenDays": 7.17,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 13
+  },
+  {
+    "series": 4,
+    "episode": 4,
+    "airdate": "10 September 2013",
+    "overSevenDays": 6.82,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 18
+  },
+  {
+    "series": 4,
+    "episode": 5,
+    "airdate": "17 September 2013",
+    "overSevenDays": 6.95,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 17
+  },
+  {
+    "series": 4,
+    "episode": 6,
+    "airdate": "24 September 2013",
+    "overSevenDays": 7.32,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 16
+  },
+  {
+    "series": 4,
+    "episode": 7,
+    "airdate": "1 October 2013",
+    "overSevenDays": 7.76,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 13
+  },
+  {
+    "series": 4,
+    "episode": 8,
+    "airdate": "8 October 2013",
+    "overSevenDays": 7.41,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 12
+  },
+  {
+    "series": 4,
+    "episode": 9,
+    "airdate": "15 October 2013",
+    "overSevenDays": 7.41,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 18
+  },
+  {
+    "series": 4,
+    "episode": 10,
+    "airdate": "22 October 2013",
+    "overSevenDays": 9.45,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 5,
+    "episode": 1,
+    "airdate": "6 August 2014",
+    "overSevenDays": 8.51,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 5,
+    "episode": 2,
+    "airdate": "13 August 2014",
+    "overSevenDays": 8.79,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 5,
+    "episode": 3,
+    "airdate": "20 August 2014",
+    "overSevenDays": 9.28,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 5,
+    "episode": 4,
+    "airdate": "27 August 2014",
+    "overSevenDays": 10.25,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 5,
+    "episode": 5,
+    "airdate": "3 September 2014",
+    "overSevenDays": 9.95,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 5,
+    "episode": 6,
+    "airdate": "10 September 2014",
+    "overSevenDays": 10.13,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 5,
+    "episode": 7,
+    "airdate": "17 September 2014",
+    "overSevenDays": 10.28,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 5,
+    "episode": 8,
+    "airdate": "24 September 2014",
+    "overSevenDays": 9.023,
+    "networkWeeklyRanking": 2,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 5,
+    "episode": 9,
+    "airdate": "1 October 2014",
+    "overSevenDays": 10.67,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 5,
+    "episode": 10,
+    "airdate": "8 October 2014",
+    "overSevenDays": 13.51,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 1,
+    "airdate": "5 August 2015",
+    "overSevenDays": 11.62,
+    "overTwentyEightDays": 11.73,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 2,
+    "airdate": "12 August 2015",
+    "overSevenDays": 11.59,
+    "overTwentyEightDays": 11.84,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 3,
+    "airdate": "19 August 2015",
+    "overSevenDays": 12.01,
+    "overTwentyEightDays": null,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 4,
+    "airdate": "26 August 2015",
+    "overSevenDays": 12.36,
+    "overTwentyEightDays": 12.67,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 5,
+    "airdate": "2 September 2015",
+    "overSevenDays": 12.39,
+    "overTwentyEightDays": 12.63,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 6,
+    "airdate": "9 September 2015",
+    "overSevenDays": 12,
+    "overTwentyEightDays": 12.26,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 7,
+    "airdate": "16 September 2015",
+    "overSevenDays": 12.35,
+    "overTwentyEightDays": 12.58,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 8,
+    "airdate": "23 September 2015",
+    "overSevenDays": 11.09,
+    "overTwentyEightDays": 11.35,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 9,
+    "airdate": "30 September 2015",
+    "overSevenDays": 12.65,
+    "overTwentyEightDays": 12.78,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 6,
+    "episode": 10,
+    "airdate": "7 October 2015",
+    "overSevenDays": 15.05,
+    "overTwentyEightDays": 15.16,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 1,
+    "airdate": "24 August 2016",
+    "overSevenDays": 13.58,
+    "overTwentyEightDays": 13.86,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 2,
+    "airdate": "31 August 2016",
+    "overSevenDays": 13.45,
+    "overTwentyEightDays": 13.74,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 3,
+    "airdate": "7 September 2016",
+    "overSevenDays": 13.01,
+    "overTwentyEightDays": 13.38,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 4,
+    "airdate": "14 September 2016",
+    "overSevenDays": 13.29,
+    "overTwentyEightDays": 13.88,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 5,
+    "airdate": "21 September 2016",
+    "overSevenDays": 13.12,
+    "overTwentyEightDays": 13.33,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 6,
+    "airdate": "28 September 2016",
+    "overSevenDays": 13.13,
+    "overTwentyEightDays": 13.41,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 7,
+    "airdate": "5 October 2016",
+    "overSevenDays": 13.45,
+    "overTwentyEightDays": 13.72,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 8,
+    "airdate": "12 October 2016",
+    "overSevenDays": 13.26,
+    "overTwentyEightDays": 13.45,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 9,
+    "airdate": "19 October 2016",
+    "overSevenDays": 13.44,
+    "overTwentyEightDays": 13.65,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 7,
+    "episode": 10,
+    "airdate": "26 October 2016",
+    "overSevenDays": 15.9,
+    "overTwentyEightDays": 16.03,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 8,
+    "episode": 1,
+    "airdate": "29 August 2017",
+    "overSevenDays": 9.46,
+    "overTwentyEightDays": 9.72,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 8,
+    "episode": 2,
+    "airdate": "5 September 2017",
+    "overSevenDays": 9.23,
+    "overTwentyEightDays": 9.53,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 8,
+    "episode": 3,
+    "airdate": "12 September 2017",
+    "overSevenDays": 8.68,
+    "overTwentyEightDays": 9.06,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 8,
+    "episode": 4,
+    "airdate": "19 September 2017",
+    "overSevenDays": 8.55,
+    "overTwentyEightDays": 8.87,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 8,
+    "episode": 5,
+    "airdate": "26 September 2017",
+    "overSevenDays": 8.61,
+    "overTwentyEightDays": 8.98,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 8,
+    "episode": 6,
+    "airdate": "3 October 2017",
+    "overSevenDays": 8.61,
+    "overTwentyEightDays": 8.91,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 8,
+    "episode": 7,
+    "airdate": "10 October 2017",
+    "overSevenDays": 9.01,
+    "overTwentyEightDays": 9.32,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 8,
+    "episode": 8,
+    "airdate": "17 October 2017",
+    "overSevenDays": 8.95,
+    "overTwentyEightDays": 9.19,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 8,
+    "episode": 9,
+    "airdate": "24 October 2017",
+    "overSevenDays": 9.03,
+    "overTwentyEightDays": 9.16,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 8,
+    "episode": 10,
+    "airdate": "31 October 2017",
+    "overSevenDays": 10.04,
+    "overTwentyEightDays": 10.13,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 9,
+    "episode": 1,
+    "airdate": "28 August 2018",
+    "overSevenDays": 9.55,
+    "overTwentyEightDays": 9.92,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 2,
+    "airdate": "4 September 2018",
+    "overSevenDays": 9.31,
+    "overTwentyEightDays": 9.76,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 3,
+    "airdate": "11 September 2018",
+    "overSevenDays": 8.91,
+    "overTwentyEightDays": 9.35,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 9,
+    "episode": 4,
+    "airdate": "18 September 2018",
+    "overSevenDays": 8.88,
+    "overTwentyEightDays": 9.41,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 5,
+    "airdate": "25 September 2018",
+    "overSevenDays": 8.67,
+    "overTwentyEightDays": 9.15,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 6,
+    "airdate": "2 October 2018",
+    "overSevenDays": 8.91,
+    "overTwentyEightDays": 9.3,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 4
+  },
+  {
+    "series": 9,
+    "episode": 7,
+    "airdate": "9 October 2018",
+    "overSevenDays": 9.22,
+    "overTwentyEightDays": 9.54,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 8,
+    "airdate": "16 October 2018",
+    "overSevenDays": 9.69,
+    "overTwentyEightDays": 9.93,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 9,
+    "episode": 9,
+    "airdate": "23 October 2018",
+    "overSevenDays": 9.5,
+    "overTwentyEightDays": 9.7,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 9,
+    "episode": 10,
+    "airdate": "30 October 2018",
+    "overSevenDays": 10.34,
+    "overTwentyEightDays": 10.54,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 10,
+    "episode": 1,
+    "airdate": "27 August 2019",
+    "overSevenDays": 9.62,
+    "overTwentyEightDays": 10.03,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 10,
+    "episode": 2,
+    "airdate": "3 September 2019",
+    "overSevenDays": 9.38,
+    "overTwentyEightDays": 9.8,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 10,
+    "episode": 3,
+    "airdate": "10 September 2019",
+    "overSevenDays": 8.94,
+    "overTwentyEightDays": 9.42,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 10,
+    "episode": 4,
+    "airdate": "17 September 2019",
+    "overSevenDays": 8.96,
+    "overTwentyEightDays": 9.49,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 10,
+    "episode": 5,
+    "airdate": "24 September 2019",
+    "overSevenDays": 9.26,
+    "overTwentyEightDays": 9.64,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 10,
+    "episode": 6,
+    "airdate": "1 October 2019",
+    "overSevenDays": 8.7,
+    "overTwentyEightDays": 9.19,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 10,
+    "episode": 7,
+    "airdate": "8 October 2019",
+    "overSevenDays": 8.98,
+    "overTwentyEightDays": 9.42,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 10,
+    "episode": 8,
+    "airdate": "15 October 2019",
+    "overSevenDays": 9.19,
+    "overTwentyEightDays": 9.48,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 10,
+    "episode": 9,
+    "airdate": "22 October 2019",
+    "overSevenDays": 9.34,
+    "overTwentyEightDays": 9.67,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 10,
+    "episode": 10,
+    "airdate": "29 October 2019",
+    "overSevenDays": 10.05,
+    "overTwentyEightDays": 10.21,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 11,
+    "episode": 1,
+    "airdate": "22 September 2020",
+    "overSevenDays": 11.21,
+    "overTwentyEightDays": 11.84,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 11,
+    "episode": 2,
+    "airdate": "29 September 2020",
+    "overSevenDays": 10.81,
+    "overTwentyEightDays": 11.38,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 11,
+    "episode": 3,
+    "airdate": "6 October 2020",
+    "overSevenDays": 10.7,
+    "overTwentyEightDays": 11.21,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 11,
+    "episode": 4,
+    "airdate": "13 October 2020",
+    "overSevenDays": 10.63,
+    "overTwentyEightDays": 11.17,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 11,
+    "episode": 5,
+    "airdate": "20 October 2020",
+    "overSevenDays": 10.66,
+    "overTwentyEightDays": 11.1,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 2
+  },
+  {
+    "series": 11,
+    "episode": 6,
+    "airdate": "27 October 2020",
+    "overSevenDays": 10.37,
+    "overTwentyEightDays": 10.79,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 11,
+    "episode": 7,
+    "airdate": "3 November 2020",
+    "overSevenDays": 10.87,
+    "overTwentyEightDays": 11.27,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  },
+  {
+    "series": 11,
+    "episode": 8,
+    "airdate": "10 November 2020",
+    "overSevenDays": 10.91,
+    "overTwentyEightDays": 11.26,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 3
+  },
+  {
+    "series": 11,
+    "episode": 9,
+    "airdate": "17 November 2020",
+    "overSevenDays": 10.83,
+    "overTwentyEightDays": 10.98,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 8
+  },
+  {
+    "series": 11,
+    "episode": 10,
+    "airdate": "24 November 2020",
+    "overSevenDays": 11.74,
+    "overTwentyEightDays": 11.84,
+    "networkWeeklyRanking": 1,
+    "allChannelsWeeklyRanking": 1
+  }
+]

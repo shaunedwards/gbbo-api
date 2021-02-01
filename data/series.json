@@ -1,0 +1,111 @@
+[
+  {
+    "series": 1,
+    "numEpisodes": 6,
+    "network": "BBC Two",
+    "winner": "Edd",
+    "runnersUp": [
+      "Ruth"
+    ]
+  },
+  {
+    "series": 2,
+    "numEpisodes": 8,
+    "network": "BBC Two",
+    "winner": "Jo",
+    "runnersUp": [
+      "Holly",
+      "Mary-Anne"
+    ]
+  },
+  {
+    "series": 3,
+    "numEpisodes": 10,
+    "network": "BBC Two",
+    "winner": "John",
+    "runnersUp": [
+      "Brendan",
+      "James"
+    ]
+  },
+  {
+    "series": 4,
+    "numEpisodes": 10,
+    "network": "BBC Two",
+    "winner": "Frances",
+    "runnersUp": [
+      "Kimberley",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 5,
+    "numEpisodes": 10,
+    "network": "BBC One",
+    "winner": "Nancy",
+    "runnersUp": [
+      "Luis",
+      "Richard"
+    ]
+  },
+  {
+    "series": 6,
+    "numEpisodes": 10,
+    "network": "BBC One",
+    "winner": "Nadiya",
+    "runnersUp": [
+      "Ian",
+      "Tamal"
+    ]
+  },
+  {
+    "series": 7,
+    "numEpisodes": 10,
+    "network": "BBC One",
+    "winner": "Candice",
+    "runnersUp": [
+      "Andrew",
+      "Jane"
+    ]
+  },
+  {
+    "series": 8,
+    "numEpisodes": 10,
+    "network": "Channel 4",
+    "winner": "Sophie",
+    "runnersUp": [
+      "Kate",
+      "Steven"
+    ]
+  },
+  {
+    "series": 9,
+    "numEpisodes": 10,
+    "network": "Channel 4",
+    "winner": "Rahul",
+    "runnersUp": [
+      "Kim-Joy",
+      "Ruby"
+    ]
+  },
+  {
+    "series": 10,
+    "numEpisodes": 10,
+    "network": "Channel 4",
+    "winner": "David",
+    "runnersUp": [
+      "Alice",
+      "Steph"
+    ]
+  },
+  {
+    "series": 11,
+    "numEpisodes": 10,
+    "network": "Channel 4",
+    "winner": "Peter",
+    "runnersUp": [
+      "Dave",
+      "Laura"
+    ]
+  }
+]
