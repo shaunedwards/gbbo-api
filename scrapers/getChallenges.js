@@ -95,7 +95,6 @@ async function getChallenges(url) {
       },
     });
   });
-  console.log(challenges);
   const nextSeries = document.querySelectorAll('tr.noprint div a')[1];
   if (nextSeries || currentSeries === 1) {
     currentSeries += 1;

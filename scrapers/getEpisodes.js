@@ -88,7 +88,6 @@ async function getEpisodes(url) {
       participants,
     });
   });
-  console.log(episodes);
   const nextSeries = document.querySelectorAll('tr.noprint div a')[1];
   if (nextSeries || currentSeries === 1) {
     currentSeries += 1;

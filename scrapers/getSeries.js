@@ -43,7 +43,6 @@ async function getSeries(url) {
     winner: winner || null,
     runnersUp,
   });
-  console.log(series);
   const nextSeries = document.querySelectorAll('tr.noprint div a')[1];
   if (nextSeries || currentSeries === 1) {
     currentSeries += 1;

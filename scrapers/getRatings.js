@@ -88,7 +88,6 @@ async function getRatings(url) {
       (numRows === episodes.length || secondHeader === 'Airdate')
     );
   });
-  console.log('filtered', filteredTables.length);
   // get the final table on page with equal number of rows to episodes
   const ratingsTable = filteredTables.pop();
   const rows = ratingsTable.querySelectorAll('tbody > tr + tr');
@@ -99,7 +98,6 @@ async function getRatings(url) {
     }
     addRowEntry(cols);
   });
-  console.log(ratings);
   const nextSeries = document.querySelectorAll('tr.noprint div a')[1];
   if (nextSeries || currentSeries === 1) {
     currentSeries += 1;
